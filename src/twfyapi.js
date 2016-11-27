@@ -56,7 +56,7 @@ var TWFYAPI =
 
 var TWFYAPI_Request =
 {
-	url: "http://www.theyworkforyou.com/api/",
+	url: "https://www.theyworkforyou.com/api/",
 	func: "",
 	args: "",
 	api_key: "",
